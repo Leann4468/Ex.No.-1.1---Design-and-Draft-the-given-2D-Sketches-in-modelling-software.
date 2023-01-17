@@ -32,7 +32,6 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
 
 7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
-8.![a1](https://user-images.githubusercontent.com/121165979/212806007-dea3d3d3-e36b-4d86-aad9-22f42adb5f4f.png)
 
 ![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
 
@@ -43,6 +42,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![a1](https://user-images.githubusercontent.com/121165979/212806007-dea3d3d3-e36b-4d86-aad9-22f42adb5f4f.png)
 
 
 ## RESULT
